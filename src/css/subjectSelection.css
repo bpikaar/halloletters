@@ -12,10 +12,3 @@ gameelement {
   /* background-repeat: no-repeat; */
   background-size: contain;
 }
-
-test {
-  position: absolute;
-  width: 100px;
-  height: 100px;
-  display: block;
-}
